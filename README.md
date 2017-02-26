@@ -10,7 +10,7 @@ Release : 16.04
 Type : 64bit  
 
 #Documentation
-The documentation of all the modules is present in the file "Documnetation.pdf"
+The documentation of all the modules is present in the file "Documnetation.pdf"  
 Tool used :- Epydoc
 
 #Compile/Build Details  
@@ -18,6 +18,6 @@ From terminal :-
 Question 1 :- python q1.py  
 Question 2 :- python q2.py  
 
-Created By :-  
+#Created By :-  
 Tushar Murarka (IIT2015091)  
 
