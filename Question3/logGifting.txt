@@ -1,0 +1,16 @@
+08/04/2017 06:16:14 PM root   INFO: Event : Gifting Details
+
+08/04/2017 06:16:17 PM root   INFO: Fgygjyf has given Nayirlw gifts of following type,price and value:-
+08/04/2017 06:16:17 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+08/04/2017 06:16:17 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+08/04/2017 06:16:17 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+08/04/2017 06:16:17 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+08/04/2017 06:16:17 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+08/04/2017 06:16:17 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+08/04/2017 06:16:17 PM root   INFO:  7 . Type :- Utility , Price :- 4 , Value :- 26
+08/04/2017 06:16:17 PM root   INFO:  8 . Type :- Essential , Price :- 4 , Value :- 29
+08/04/2017 06:16:17 PM root   INFO:  9 . Type :- Essential , Price :- 4 , Value :- 27
+08/04/2017 06:16:17 PM root   INFO:  10 . Type :- Essential , Price :- 4 , Value :- 20
+08/04/2017 06:16:17 PM root   INFO:  11 . Type :- Luxury , Price :- 5 , Value :- 11
+08/04/2017 06:16:17 PM root   INFO:  12 . Type :- Essential , Price :- 5 , Value :- 12
+08/04/2017 06:16:17 PM root   INFO:  13 . Type :- Utility , Price :- 6 , Value :- 24
