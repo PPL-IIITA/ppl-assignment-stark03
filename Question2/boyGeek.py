@@ -1,30 +1,25 @@
 import operator
-from Boys import Boy
 
-class boyGeek(Boy):
+class boyGeek:
 
-    """Boy class for boyType = 'Geek'"""
+    happiness = 0
+    amountSpent = 0
+    gfName = ""
 
     def __init__(self, boy):
-        """constructor , calls the parent constructor and initializes other attributes as:-
-                    happiness = happiness of the boy
-                    amountSpent = amount spent on gifting
-                    gfName = name of the girlfriend
-        """
-        Boy.__init__(self,boy)
-        self.happiness = 0
-        self.gfName = ""
-        self.amountSpent = 0
+        self.name = boy['name']
+        self.attractiveness = int(boy['attractiveness'])
+        self.intelligence = int(boy['intelligence'])
+        self.budget = int(boy['budget'])
+        self.minimumAttrReq = int(boy['minimumAttrReq'])
+        self.bType = boy['bType']
+        # self.amountSpent = boy['amountSpent']
+        self.status = boy['status']
 
     def happinessCalculator(self , gIntelligence):
-        "Calculates happiness for Geek boys"
         self.happiness = gIntelligence
 
     def gifting(self, gMaintainanceCost , Gifts , giftBasket):
-
-
-        "Sets up the gift basket for Miser boys"
-
         Gifts.sort(key=operator.attrgetter('price'))
         i = 0
         if(gMaintainanceCost < Gifts[0].price):
@@ -51,5 +46,3 @@ class boyGeek(Boy):
                         temp = [Gifts[j].giftType, Gifts[j].price, Gifts[j].value]
                         giftBasket.append(temp)
                         break
-
-
