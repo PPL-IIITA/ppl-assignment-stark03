@@ -1,0 +1,16 @@
+09/04/2017 03:07:22 PM root   INFO: Event : Gifting Details
+
+09/04/2017 03:07:24 PM root   INFO: Break-Up Details :-
+
+09/04/2017 03:07:24 PM root   INFO: Nayirlw broke up with Rxuaxdb
+09/04/2017 03:07:24 PM root   INFO: Xcsdeiu broke up with Ibppmdp
+09/04/2017 03:07:24 PM root   INFO: Huerhwu broke up with Sueaqkr
+09/04/2017 03:07:24 PM root   INFO: Dmjwkwk broke up with Jztzjat
+09/04/2017 03:07:24 PM root   INFO: Ytfuioj broke up with Nykoxdo
+09/04/2017 03:07:24 PM root   INFO: Patch-Up Details :-
+
+09/04/2017 03:07:24 PM root   INFO: Nayirlw recently patched up with Sueaqkr , her old boyfriend was Rxuaxdb
+09/04/2017 03:07:24 PM root   INFO: Xcsdeiu recently patched up with Rxuaxdb , her old boyfriend was Ibppmdp
+09/04/2017 03:07:24 PM root   INFO: Huerhwu recently patched up with Qhrlcjx , her old boyfriend was Sueaqkr
+09/04/2017 03:07:24 PM root   INFO: Dmjwkwk recently patched up with Nykoxdo , her old boyfriend was Jztzjat
+09/04/2017 03:07:24 PM root   INFO: Ytfuioj recently patched up with Jztzjat , her old boyfriend was Nykoxdo
