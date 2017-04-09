@@ -1,0 +1,61 @@
+09/04/2017 08:38:46 PM root   INFO: Ciamuea has given Xcfmauz gifts of following type,price and value:-
+09/04/2017 08:38:46 PM root   INFO:  1 . Type :- Essential , Price :- 7 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO:  2 . Type :- Utility , Price :- 41 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO: Ingynxy has given Flvvlwb gifts of following type,price and value:-
+09/04/2017 08:38:46 PM root   INFO:  1 . Type :- Essential , Price :- 7 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO:  2 . Type :- Utility , Price :- 41 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO: Uhowzwb has given Qjtxfdz gifts of following type,price and value:-
+09/04/2017 08:38:46 PM root   INFO:  1 . Type :- Essential , Price :- 7 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO:  2 . Type :- Utility , Price :- 41 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO: Lwmzcmh has given Fafvyph gifts of following type,price and value:-
+09/04/2017 08:38:46 PM root   INFO:  1 . Type :- Essential , Price :- 7 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO:  2 . Type :- Utility , Price :- 41 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO:  3 . Type :- Luxury , Price :- 26 , Value :- 2
+09/04/2017 08:38:46 PM root   INFO: Ynfnise has given Lpvrdsg gifts of following type,price and value:-
+09/04/2017 08:38:46 PM root   INFO:  1 . Type :- Essential , Price :- 43 , Value :- 50
+09/04/2017 08:38:46 PM root   INFO: Xckaplu has given Woqtdqa gifts of following type,price and value:-
+09/04/2017 08:38:46 PM root   INFO:  1 . Type :- Essential , Price :- 7 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO:  2 . Type :- Utility , Price :- 41 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO:  3 . Type :- Luxury , Price :- 26 , Value :- 2
+09/04/2017 08:38:46 PM root   INFO: Xbbzzge has given Rlowfax gifts of following type,price and value:-
+09/04/2017 08:38:46 PM root   INFO:  1 . Type :- Essential , Price :- 7 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO:  2 . Type :- Utility , Price :- 41 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO: Pmszhlb has given Jfvqfzj gifts of following type,price and value:-
+09/04/2017 08:38:46 PM root   INFO:  1 . Type :- Essential , Price :- 43 , Value :- 50
+09/04/2017 08:38:46 PM root   INFO:  2 . Type :- Essential , Price :- 32 , Value :- 50
+09/04/2017 08:38:46 PM root   INFO: Uaxkysq has given Shhrdvu gifts of following type,price and value:-
+09/04/2017 08:38:46 PM root   INFO:  1 . Type :- Essential , Price :- 7 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO:  2 . Type :- Utility , Price :- 41 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO: Ypivovy has given Kvallgy gifts of following type,price and value:-
+09/04/2017 08:38:46 PM root   INFO:  1 . Type :- Essential , Price :- 7 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO:  2 . Type :- Utility , Price :- 41 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO:  3 . Type :- Luxury , Price :- 26 , Value :- 2
+09/04/2017 08:38:46 PM root   INFO: Trjghbn has given Calomyf gifts of following type,price and value:-
+09/04/2017 08:38:46 PM root   INFO:  1 . Type :- Essential , Price :- 7 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO:  2 . Type :- Utility , Price :- 41 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO: Hnpjzth has given Weublck gifts of following type,price and value:-
+09/04/2017 08:38:46 PM root   INFO:  1 . Type :- Essential , Price :- 43 , Value :- 50
+09/04/2017 08:38:46 PM root   INFO: Hhcyzlg has given Tjquqli gifts of following type,price and value:-
+09/04/2017 08:38:46 PM root   INFO:  1 . Type :- Essential , Price :- 7 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO: Syvofjm has given Lflzamr gifts of following type,price and value:-
+09/04/2017 08:38:46 PM root   INFO:  1 . Type :- Essential , Price :- 43 , Value :- 50
+09/04/2017 08:38:46 PM root   INFO: Ejxumue has given Gqtyxcn gifts of following type,price and value:-
+09/04/2017 08:38:46 PM root   INFO:  1 . Type :- Essential , Price :- 43 , Value :- 50
+09/04/2017 08:38:46 PM root   INFO: Batnhdf has given Pawbhda gifts of following type,price and value:-
+09/04/2017 08:38:46 PM root   INFO:  1 . Type :- Essential , Price :- 43 , Value :- 50
+09/04/2017 08:38:46 PM root   INFO: Fpkoyxd has given Jxkzikt gifts of following type,price and value:-
+09/04/2017 08:38:46 PM root   INFO:  1 . Type :- Essential , Price :- 7 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO:  2 . Type :- Utility , Price :- 41 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO: Ygjnmxo has given Gvsyemr gifts of following type,price and value:-
+09/04/2017 08:38:46 PM root   INFO:  1 . Type :- Essential , Price :- 7 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO:  2 . Type :- Utility , Price :- 41 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO: Lrskujw has given Xexpehq gifts of following type,price and value:-
+09/04/2017 08:38:46 PM root   INFO:  1 . Type :- Essential , Price :- 7 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO:  2 . Type :- Utility , Price :- 41 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO: Lnvcaaz has given Lrtekvg gifts of following type,price and value:-
+09/04/2017 08:38:46 PM root   INFO:  1 . Type :- Essential , Price :- 7 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO:  2 . Type :- Utility , Price :- 41 , Value :- 1
+09/04/2017 08:38:46 PM root   INFO: Rsdevdv has given Pxsjyin gifts of following type,price and value:-
+09/04/2017 08:38:46 PM root   INFO:  1 . Type :- Essential , Price :- 43 , Value :- 50
+09/04/2017 08:38:46 PM root   INFO: Qqzvgmr has given Uzfgvcr gifts of following type,price and value:-
+09/04/2017 08:38:46 PM root   INFO:  1 . Type :- Essential , Price :- 7 , Value :- 1
