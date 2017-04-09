@@ -1,30 +1,27 @@
 from math import log
-from Girls import Girl
 
-class girlChoosy(Girl):
+class girlChoosy:
 
-    """Girl class for girlType = 'Choosy'"""
+    happiness = 0
+    costOfGiftsRec = 0
+    bfName = ""
 
     def __init__(self, girl):
-        "constructor"
-        Girl.__init__(self,girl)
-        self.happiness = 0
-        self.costOfGiftsRec = 0
-        self.bfName = ""
-        self.blackList = ""
-
+        self.name = girl['name']
+        self.attractiveness = int(girl['attractiveness'])
+        self.maintainanceCost = int(girl['maintainanceCost'])
+        self.intelligence = int(girl['intelligence'])
+        self.gType = girl['gType']
+        self.chosingCri = girl['chosingCri']
+        self.status = bool(girl['status'])
 
     def happinessCalculator(self, giftBasket, amount):
-        "Calculates the happiness for girls of type Choosy"
+
         self.costOfGiftsRec = amount
         for i in range(0,len(giftBasket)):
             if(giftBasket[i][0] == "Luxury"):
                 amount += giftBasket[i][1]
 
-        if((amount/self.maintainanceCost) > 0):
-            self.happiness = log(amount/self.maintainanceCost)
-        else:
-            self.happiness = 0
+        self.happiness = log(amount/self.maintainanceCost)
 
         return self.happiness
-
