@@ -1,12 +1,9 @@
-from Gifts import Gift
+class giftLuxury:
 
-class giftLuxury(Gift):
-
-    """Gift Class for gifttype = 'Luxury'"""
+    luxuryRating = 0
+    obtainDiff = 0
 
     def __init__(self, gift):
-        "constructor"
-        Gift.__init__(self,gift)
-        self.luxuryRating = 0
-        self.obtainDifficulty = 0
-
+        self.giftType = gift['giftType']
+        self.price = int(gift['price'])
+        self.value = int(gift['value'])
