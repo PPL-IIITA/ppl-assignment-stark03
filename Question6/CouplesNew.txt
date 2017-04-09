@@ -1,0 +1,390 @@
+09/04/2017 08:54:16 PM root   INFO: Event : Gifting Details
+
+09/04/2017 08:54:18 PM root   INFO: Break Up Details :-
+
+09/04/2017 08:54:18 PM root   INFO: Jfvqfzj broke up with Hdfpqcm
+09/04/2017 08:54:18 PM root   INFO: Ytfuioj broke up with Nykoxdo
+09/04/2017 08:54:18 PM root   INFO: Xexpehq broke up with Pmszhlb
+09/04/2017 08:54:18 PM root   INFO: Hqemsxf broke up with Bxbqfvf
+09/04/2017 08:54:18 PM root   INFO: Bblrvhu broke up with Kwxtxub
+09/04/2017 08:54:18 PM root   INFO: Dmjwkwk broke up with Jztzjat
+09/04/2017 08:54:18 PM root   INFO: Infaikl broke up with Syvofjm
+09/04/2017 08:54:18 PM root   INFO: Xcsdeiu broke up with Ibppmdp
+09/04/2017 08:54:18 PM root   INFO: Huerhwu broke up with Sueaqkr
+09/04/2017 08:54:18 PM root   INFO: Nidzdlm broke up with Fcfkqxy
+09/04/2017 08:54:18 PM root   INFO: Nayirlw broke up with Rxuaxdb
+09/04/2017 08:54:18 PM root   INFO: Patch-Up Details :-
+
+09/04/2017 08:54:18 PM root   INFO: Jfvqfzj recently patched up with Kwxtxub , her old boyfriend was Hdfpqcm , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Essential , Price :- 49 , Value :- 38
+09/04/2017 08:54:18 PM root   INFO: Ytfuioj recently patched up with Pmszhlb , her old boyfriend was Nykoxdo , thier gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Essential , Price :- 49 , Value :- 38
+09/04/2017 08:54:18 PM root   INFO: Xexpehq recently patched up with Nykoxdo , her old boyfriend was Pmszhlb , thier gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Essential , Price :- 49 , Value :- 38
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Luxury , Price :- 47 , Value :- 39
+09/04/2017 08:54:18 PM root   INFO: Hqemsxf recently patched up with Hdfpqcm , her old boyfriend was Bxbqfvf , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Essential , Price :- 49 , Value :- 38
+09/04/2017 08:54:18 PM root   INFO: Bblrvhu recently patched up with Sueaqkr , her old boyfriend was Kwxtxub , thier gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Essential , Price :- 49 , Value :- 38
+09/04/2017 08:54:18 PM root   INFO: Dmjwkwk recently patched up with Vgjuoxc , her old boyfriend was Jztzjat , thier gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO:  7 . Type :- Utility , Price :- 4 , Value :- 26
+09/04/2017 08:54:18 PM root   INFO:  8 . Type :- Essential , Price :- 4 , Value :- 29
+09/04/2017 08:54:18 PM root   INFO:  9 . Type :- Luxury , Price :- 5 , Value :- 11
+09/04/2017 08:54:18 PM root   INFO: Infaikl recently patched up with Fcfkqxy , her old boyfriend was Syvofjm , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Essential , Price :- 49 , Value :- 38
+09/04/2017 08:54:18 PM root   INFO: Xcsdeiu recently patched up with Rxuaxdb , her old boyfriend was Ibppmdp , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Essential , Price :- 49 , Value :- 38
+09/04/2017 08:54:18 PM root   INFO: Huerhwu recently patched up with Qhrlcjx , her old boyfriend was Sueaqkr , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO:  7 . Type :- Utility , Price :- 4 , Value :- 26
+09/04/2017 08:54:18 PM root   INFO:  8 . Type :- Essential , Price :- 4 , Value :- 29
+09/04/2017 08:54:18 PM root   INFO:  9 . Type :- Essential , Price :- 4 , Value :- 27
+09/04/2017 08:54:18 PM root   INFO:  10 . Type :- Essential , Price :- 4 , Value :- 20
+09/04/2017 08:54:18 PM root   INFO:  11 . Type :- Luxury , Price :- 5 , Value :- 11
+09/04/2017 08:54:18 PM root   INFO:  12 . Type :- Essential , Price :- 5 , Value :- 12
+09/04/2017 08:54:18 PM root   INFO: Nidzdlm recently patched up with Bxbqfvf , her old boyfriend was Fcfkqxy , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Essential , Price :- 49 , Value :- 38
+09/04/2017 08:54:18 PM root   INFO: Nayirlw recently patched up with Fgygjyf , her old boyfriend was Rxuaxdb , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO:  7 . Type :- Utility , Price :- 4 , Value :- 26
+09/04/2017 08:54:18 PM root   INFO:  8 . Type :- Essential , Price :- 4 , Value :- 29
+09/04/2017 08:54:18 PM root   INFO:  9 . Type :- Essential , Price :- 4 , Value :- 27
+09/04/2017 08:54:18 PM root   INFO:  10 . Type :- Essential , Price :- 4 , Value :- 20
+09/04/2017 08:54:18 PM root   INFO:  11 . Type :- Luxury , Price :- 5 , Value :- 11
+09/04/2017 08:54:18 PM root   INFO:  12 . Type :- Essential , Price :- 5 , Value :- 12
+09/04/2017 08:54:18 PM root   INFO:  13 . Type :- Utility , Price :- 6 , Value :- 24
+09/04/2017 08:54:18 PM root   INFO: Break Up Details :-
+
+09/04/2017 08:54:18 PM root   INFO: Xcsdeiu broke up with Rxuaxdb
+09/04/2017 08:54:18 PM root   INFO: Ytfuioj broke up with Pmszhlb
+09/04/2017 08:54:18 PM root   INFO: Patch-Up Details :-
+
+09/04/2017 08:54:18 PM root   INFO: Jfvqfzj recently patched up with Nejfkup , her old boyfriend was Hdfpqcm , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO:  7 . Type :- Utility , Price :- 4 , Value :- 26
+09/04/2017 08:54:18 PM root   INFO:  8 . Type :- Essential , Price :- 4 , Value :- 29
+09/04/2017 08:54:18 PM root   INFO:  9 . Type :- Essential , Price :- 4 , Value :- 27
+09/04/2017 08:54:18 PM root   INFO:  10 . Type :- Essential , Price :- 4 , Value :- 20
+09/04/2017 08:54:18 PM root   INFO:  11 . Type :- Luxury , Price :- 5 , Value :- 11
+09/04/2017 08:54:18 PM root   INFO:  12 . Type :- Essential , Price :- 5 , Value :- 12
+09/04/2017 08:54:18 PM root   INFO:  13 . Type :- Luxury , Price :- 7 , Value :- 42
+09/04/2017 08:54:18 PM root   INFO: Ytfuioj recently patched up with Jztzjat , her old boyfriend was Pmszhlb , thier gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Essential , Price :- 49 , Value :- 38
+09/04/2017 08:54:18 PM root   INFO: Xexpehq recently patched up with Xytiycm , her old boyfriend was Pmszhlb , thier gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO:  7 . Type :- Luxury , Price :- 5 , Value :- 11
+09/04/2017 08:54:18 PM root   INFO: Hqemsxf recently patched up with Qyntfhl , her old boyfriend was Bxbqfvf , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO:  7 . Type :- Utility , Price :- 4 , Value :- 26
+09/04/2017 08:54:18 PM root   INFO: Dmjwkwk recently patched up with Pmszhlb , her old boyfriend was Jztzjat , thier gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO: Infaikl recently patched up with Rxuaxdb , her old boyfriend was Syvofjm , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO: Xcsdeiu recently patched up with Ibppmdp , her old boyfriend was Rxuaxdb , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Essential , Price :- 49 , Value :- 38
+09/04/2017 08:54:18 PM root   INFO: Huerhwu recently patched up with Bkepbqr , her old boyfriend was Sueaqkr , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO:  7 . Type :- Utility , Price :- 4 , Value :- 26
+09/04/2017 08:54:18 PM root   INFO:  8 . Type :- Essential , Price :- 4 , Value :- 29
+09/04/2017 08:54:18 PM root   INFO:  9 . Type :- Essential , Price :- 4 , Value :- 27
+09/04/2017 08:54:18 PM root   INFO:  10 . Type :- Essential , Price :- 4 , Value :- 20
+09/04/2017 08:54:18 PM root   INFO:  11 . Type :- Luxury , Price :- 5 , Value :- 11
+09/04/2017 08:54:18 PM root   INFO:  12 . Type :- Essential , Price :- 5 , Value :- 12
+09/04/2017 08:54:18 PM root   INFO:  13 . Type :- Luxury , Price :- 7 , Value :- 42
+09/04/2017 08:54:18 PM root   INFO: Nidzdlm recently patched up with Kpvepgq , her old boyfriend was Fcfkqxy , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Essential , Price :- 49 , Value :- 38
+09/04/2017 08:54:18 PM root   INFO: Nayirlw recently patched up with Eyridog , her old boyfriend was Rxuaxdb , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO:  7 . Type :- Utility , Price :- 4 , Value :- 26
+09/04/2017 08:54:18 PM root   INFO:  8 . Type :- Essential , Price :- 4 , Value :- 29
+09/04/2017 08:54:18 PM root   INFO:  9 . Type :- Essential , Price :- 4 , Value :- 27
+09/04/2017 08:54:18 PM root   INFO:  10 . Type :- Essential , Price :- 4 , Value :- 20
+09/04/2017 08:54:18 PM root   INFO:  11 . Type :- Luxury , Price :- 5 , Value :- 11
+09/04/2017 08:54:18 PM root   INFO:  12 . Type :- Essential , Price :- 5 , Value :- 12
+09/04/2017 08:54:18 PM root   INFO:  13 . Type :- Utility , Price :- 6 , Value :- 24
+09/04/2017 08:54:18 PM root   INFO:  14 . Type :- Luxury , Price :- 7 , Value :- 42
+09/04/2017 08:54:18 PM root   INFO: Xcsdeiu recently patched up with Qikabcj , her old boyfriend was Rxuaxdb , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO:  7 . Type :- Utility , Price :- 4 , Value :- 26
+09/04/2017 08:54:18 PM root   INFO:  8 . Type :- Essential , Price :- 4 , Value :- 29
+09/04/2017 08:54:18 PM root   INFO:  9 . Type :- Essential , Price :- 4 , Value :- 27
+09/04/2017 08:54:18 PM root   INFO:  10 . Type :- Essential , Price :- 4 , Value :- 20
+09/04/2017 08:54:18 PM root   INFO:  11 . Type :- Luxury , Price :- 5 , Value :- 11
+09/04/2017 08:54:18 PM root   INFO:  12 . Type :- Essential , Price :- 5 , Value :- 12
+09/04/2017 08:54:18 PM root   INFO:  13 . Type :- Utility , Price :- 6 , Value :- 24
+09/04/2017 08:54:18 PM root   INFO:  14 . Type :- Luxury , Price :- 7 , Value :- 42
+09/04/2017 08:54:18 PM root   INFO: Ytfuioj recently patched up with Ivcyotd , her old boyfriend was Pmszhlb , thier gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO:  7 . Type :- Utility , Price :- 4 , Value :- 26
+09/04/2017 08:54:18 PM root   INFO:  8 . Type :- Essential , Price :- 4 , Value :- 29
+09/04/2017 08:54:18 PM root   INFO:  9 . Type :- Essential , Price :- 4 , Value :- 27
+09/04/2017 08:54:18 PM root   INFO:  10 . Type :- Essential , Price :- 4 , Value :- 20
+09/04/2017 08:54:18 PM root   INFO:  11 . Type :- Luxury , Price :- 5 , Value :- 11
+09/04/2017 08:54:18 PM root   INFO: Break Up Details :-
+
+09/04/2017 08:54:18 PM root   INFO: Xcsdeiu broke up with Ibppmdp
+09/04/2017 08:54:18 PM root   INFO: Ytfuioj broke up with Jztzjat
+09/04/2017 08:54:18 PM root   INFO: Patch-Up Details :-
+
+09/04/2017 08:54:18 PM root   INFO: Ytfuioj recently patched up with Iyrqyso , her old boyfriend was Jztzjat , thier gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO:  7 . Type :- Utility , Price :- 4 , Value :- 26
+09/04/2017 08:54:18 PM root   INFO:  8 . Type :- Essential , Price :- 4 , Value :- 29
+09/04/2017 08:54:18 PM root   INFO:  9 . Type :- Essential , Price :- 4 , Value :- 27
+09/04/2017 08:54:18 PM root   INFO:  10 . Type :- Essential , Price :- 4 , Value :- 20
+09/04/2017 08:54:18 PM root   INFO:  11 . Type :- Luxury , Price :- 5 , Value :- 11
+09/04/2017 08:54:18 PM root   INFO:  12 . Type :- Luxury , Price :- 7 , Value :- 42
+09/04/2017 08:54:18 PM root   INFO: Xexpehq recently patched up with Jztzjat , her old boyfriend was Pmszhlb , thier gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO: Hqemsxf recently patched up with Ltdsyod , her old boyfriend was Bxbqfvf , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Essential , Price :- 49 , Value :- 38
+09/04/2017 08:54:18 PM root   INFO: Dmjwkwk recently patched up with Khrkkec , her old boyfriend was Jztzjat , thier gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO:  7 . Type :- Utility , Price :- 4 , Value :- 26
+09/04/2017 08:54:18 PM root   INFO:  8 . Type :- Essential , Price :- 4 , Value :- 29
+09/04/2017 08:54:18 PM root   INFO:  9 . Type :- Luxury , Price :- 5 , Value :- 11
+09/04/2017 08:54:18 PM root   INFO: Infaikl recently patched up with Fpwhzwn , her old boyfriend was Syvofjm , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO:  7 . Type :- Utility , Price :- 4 , Value :- 26
+09/04/2017 08:54:18 PM root   INFO: Xcsdeiu recently patched up with Ijvwdev , her old boyfriend was Ibppmdp , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO:  7 . Type :- Utility , Price :- 4 , Value :- 26
+09/04/2017 08:54:18 PM root   INFO:  8 . Type :- Essential , Price :- 4 , Value :- 29
+09/04/2017 08:54:18 PM root   INFO:  9 . Type :- Essential , Price :- 4 , Value :- 27
+09/04/2017 08:54:18 PM root   INFO:  10 . Type :- Essential , Price :- 4 , Value :- 20
+09/04/2017 08:54:18 PM root   INFO:  11 . Type :- Luxury , Price :- 5 , Value :- 11
+09/04/2017 08:54:18 PM root   INFO:  12 . Type :- Essential , Price :- 5 , Value :- 12
+09/04/2017 08:54:18 PM root   INFO:  13 . Type :- Utility , Price :- 6 , Value :- 24
+09/04/2017 08:54:18 PM root   INFO:  14 . Type :- Luxury , Price :- 7 , Value :- 42
+09/04/2017 08:54:18 PM root   INFO: Huerhwu recently patched up with Roazfau , her old boyfriend was Sueaqkr , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO:  7 . Type :- Utility , Price :- 4 , Value :- 26
+09/04/2017 08:54:18 PM root   INFO:  8 . Type :- Essential , Price :- 4 , Value :- 29
+09/04/2017 08:54:18 PM root   INFO:  9 . Type :- Essential , Price :- 4 , Value :- 27
+09/04/2017 08:54:18 PM root   INFO:  10 . Type :- Essential , Price :- 4 , Value :- 20
+09/04/2017 08:54:18 PM root   INFO:  11 . Type :- Luxury , Price :- 5 , Value :- 11
+09/04/2017 08:54:18 PM root   INFO:  12 . Type :- Essential , Price :- 5 , Value :- 12
+09/04/2017 08:54:18 PM root   INFO: Nidzdlm recently patched up with Ugqonkl , her old boyfriend was Fcfkqxy , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Essential , Price :- 49 , Value :- 38
+09/04/2017 08:54:18 PM root   INFO: Nayirlw recently patched up with Trjghbn , her old boyfriend was Rxuaxdb , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO:  7 . Type :- Utility , Price :- 4 , Value :- 26
+09/04/2017 08:54:18 PM root   INFO:  8 . Type :- Essential , Price :- 4 , Value :- 29
+09/04/2017 08:54:18 PM root   INFO:  9 . Type :- Essential , Price :- 4 , Value :- 27
+09/04/2017 08:54:18 PM root   INFO:  10 . Type :- Essential , Price :- 4 , Value :- 20
+09/04/2017 08:54:18 PM root   INFO:  11 . Type :- Luxury , Price :- 5 , Value :- 11
+09/04/2017 08:54:18 PM root   INFO:  12 . Type :- Essential , Price :- 5 , Value :- 12
+09/04/2017 08:54:18 PM root   INFO:  13 . Type :- Utility , Price :- 6 , Value :- 24
+09/04/2017 08:54:18 PM root   INFO: Xcsdeiu recently patched up with Aqlhpda , her old boyfriend was Ibppmdp , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO:  7 . Type :- Utility , Price :- 4 , Value :- 26
+09/04/2017 08:54:18 PM root   INFO:  8 . Type :- Essential , Price :- 4 , Value :- 29
+09/04/2017 08:54:18 PM root   INFO:  9 . Type :- Essential , Price :- 4 , Value :- 27
+09/04/2017 08:54:18 PM root   INFO:  10 . Type :- Essential , Price :- 4 , Value :- 20
+09/04/2017 08:54:18 PM root   INFO:  11 . Type :- Luxury , Price :- 5 , Value :- 11
+09/04/2017 08:54:18 PM root   INFO:  12 . Type :- Essential , Price :- 5 , Value :- 12
+09/04/2017 08:54:18 PM root   INFO:  13 . Type :- Utility , Price :- 6 , Value :- 24
+09/04/2017 08:54:18 PM root   INFO: Ytfuioj recently patched up with Pxdfzjk , her old boyfriend was Jztzjat , thier gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO:  7 . Type :- Utility , Price :- 4 , Value :- 26
+09/04/2017 08:54:18 PM root   INFO:  8 . Type :- Essential , Price :- 4 , Value :- 29
+09/04/2017 08:54:18 PM root   INFO:  9 . Type :- Essential , Price :- 4 , Value :- 27
+09/04/2017 08:54:18 PM root   INFO:  10 . Type :- Essential , Price :- 4 , Value :- 20
+09/04/2017 08:54:18 PM root   INFO:  11 . Type :- Luxury , Price :- 5 , Value :- 11
+09/04/2017 08:54:18 PM root   INFO:  12 . Type :- Luxury , Price :- 7 , Value :- 42
+09/04/2017 08:54:18 PM root   INFO: Xcsdeiu recently patched up with Ejowhvj , her old boyfriend was Ibppmdp , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO:  7 . Type :- Utility , Price :- 4 , Value :- 26
+09/04/2017 08:54:18 PM root   INFO:  8 . Type :- Essential , Price :- 4 , Value :- 29
+09/04/2017 08:54:18 PM root   INFO:  9 . Type :- Essential , Price :- 4 , Value :- 27
+09/04/2017 08:54:18 PM root   INFO:  10 . Type :- Essential , Price :- 4 , Value :- 20
+09/04/2017 08:54:18 PM root   INFO:  11 . Type :- Luxury , Price :- 5 , Value :- 11
+09/04/2017 08:54:18 PM root   INFO:  12 . Type :- Essential , Price :- 5 , Value :- 12
+09/04/2017 08:54:18 PM root   INFO:  13 . Type :- Utility , Price :- 6 , Value :- 24
+09/04/2017 08:54:18 PM root   INFO:  14 . Type :- Luxury , Price :- 7 , Value :- 42
+09/04/2017 08:54:18 PM root   INFO: Ytfuioj recently patched up with Cdvqnjr , her old boyfriend was Jztzjat , thier gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO:  7 . Type :- Utility , Price :- 4 , Value :- 26
+09/04/2017 08:54:18 PM root   INFO:  8 . Type :- Essential , Price :- 4 , Value :- 29
+09/04/2017 08:54:18 PM root   INFO:  9 . Type :- Essential , Price :- 4 , Value :- 27
+09/04/2017 08:54:18 PM root   INFO:  10 . Type :- Essential , Price :- 4 , Value :- 20
+09/04/2017 08:54:18 PM root   INFO:  11 . Type :- Luxury , Price :- 5 , Value :- 11
+09/04/2017 08:54:18 PM root   INFO: Break Up Details :-
+
+09/04/2017 08:54:18 PM root   INFO: Xcsdeiu broke up with Aqlhpda
+09/04/2017 08:54:18 PM root   INFO: Patch-Up Details :-
+
+09/04/2017 08:54:18 PM root   INFO: Ytfuioj recently patched up with Qycgtfx , her old boyfriend was Jztzjat , thier gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO:  7 . Type :- Utility , Price :- 4 , Value :- 26
+09/04/2017 08:54:18 PM root   INFO:  8 . Type :- Essential , Price :- 4 , Value :- 29
+09/04/2017 08:54:18 PM root   INFO:  9 . Type :- Essential , Price :- 4 , Value :- 27
+09/04/2017 08:54:18 PM root   INFO:  10 . Type :- Essential , Price :- 4 , Value :- 20
+09/04/2017 08:54:18 PM root   INFO:  11 . Type :- Luxury , Price :- 5 , Value :- 11
+09/04/2017 08:54:18 PM root   INFO:  12 . Type :- Luxury , Price :- 7 , Value :- 42
+09/04/2017 08:54:18 PM root   INFO: Xexpehq recently patched up with Jvygrlg , her old boyfriend was Pmszhlb , thier gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO: Hqemsxf recently patched up with Bfthuql , her old boyfriend was Bxbqfvf , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO:  7 . Type :- Utility , Price :- 4 , Value :- 26
+09/04/2017 08:54:18 PM root   INFO: Infaikl recently patched up with Aqlhpda , her old boyfriend was Syvofjm , their gifting details are as follows :- 
+
+09/04/2017 08:54:18 PM root   INFO:  1 . Type :- Luxury , Price :- 1 , Value :- 7
+09/04/2017 08:54:18 PM root   INFO:  2 . Type :- Utility , Price :- 1 , Value :- 22
+09/04/2017 08:54:18 PM root   INFO:  3 . Type :- Luxury , Price :- 2 , Value :- 32
+09/04/2017 08:54:18 PM root   INFO:  4 . Type :- Utility , Price :- 2 , Value :- 9
+09/04/2017 08:54:18 PM root   INFO:  5 . Type :- Essential , Price :- 2 , Value :- 19
+09/04/2017 08:54:18 PM root   INFO:  6 . Type :- Utility , Price :- 3 , Value :- 35
+09/04/2017 08:54:18 PM root   INFO:  7 . Type :- Utility , Price :- 4 , Value :- 26
