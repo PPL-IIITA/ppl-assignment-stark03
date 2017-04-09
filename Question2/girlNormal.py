@@ -1,21 +1,18 @@
-from Girls import Girl
-
-class girlNormal(Girl):
-
-    "Girl class for girlType = 'Choosy'"
+class girlNormal:
+    happiness = 0
+    costOfGiftsRec = 0
+    bfName = ""
 
     def __init__(self, girl):
-        "constructor"
-        Girl.__init__(self,girl)
-        self.bfName = ""
-        self.costOfGiftsRec = 0
-        self.happiness = 0
-        self.blackList = ""
+        self.name = girl['name']
+        self.attractiveness = int(girl['attractiveness'])
+        self.maintainanceCost = int(girl['maintainanceCost'])
+        self.intelligence = int(girl['intelligence'])
+        self.gType = girl['gType']
+        self.chosingCri = girl['chosingCri']
+        self.status = bool(girl['status'])
 
     def happinessCalculator(self , giftBasket , amount):
-
-        "Calculates happiness for girls of type Normal"
-
         self.costOfGiftsRec = amount
 
         for i in range(0,len(giftBasket)):
