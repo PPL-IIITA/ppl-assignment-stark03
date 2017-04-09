@@ -13,7 +13,7 @@ Release : 16.04
 Type : 64bit  
 
 # Documentation
-The documentation of all the modules is present in the file "Documnetation(x).pdf where x is the question number."  
+The documentation of all the modules is present in the respective folder with the name "Documnetation(x).pdf where x is the question number."  
 Tool used :- Epydoc
 
 # Class Diagrams
@@ -69,7 +69,7 @@ Question 8 :-
 cd Question8
 python q8.py  
 ```
-Question 8 :- 
+Question 9 :- 
 ```
 cd Question9
 python q9.py  
