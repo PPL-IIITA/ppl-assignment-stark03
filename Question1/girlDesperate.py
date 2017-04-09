@@ -1,22 +1,21 @@
 from math import exp
-from Girls import Girl
 
-class girlDesperate(Girl):
-
-    """Girl class for girlType = 'Choosy'"""
+class girlDesperate:
+    happiness = 0
+    costOfGiftsRec = 0
+    bfName = ""
 
     def __init__(self, girl):
-        "constructor"
-        Girl.__init__(self,girl)
-        self.happiness = 0
-        self.costOfGiftsRec = 0
-        self.bfName = ""
-        self.blackList = ""
+        self.name = girl['name']
+        self.attractiveness = int(girl['attractiveness'])
+        self.maintainanceCost = int(girl['maintainanceCost'])
+        self.intelligence = int(girl['intelligence'])
+        self.gType = girl['gType']
+        self.chosingCri = girl['chosingCri']
+        self.status = bool(girl['status'])
 
     def happinessCalculator(self , giftBasket , amount):
-
-        "Calculates happiness for girls of type Normal"
-
         self.costOfGiftsRec = amount
+
         self.happiness = exp(amount/self.maintainanceCost)
         return self.happiness
