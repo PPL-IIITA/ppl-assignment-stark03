@@ -1,10 +1,7 @@
-from Gifts import Gift
-
-class giftEssential(Gift):
-
-    """Gift Class for gifttype = 'Essential'"""
+class giftEssential:
 
     def __init__(self, gift):
-        "constructor"
-        Gift.__init__(self,gift)
+        self.giftType = gift['giftType']
+        self.price = int(gift['price'])
+        self.value = int(gift['value'])
 
